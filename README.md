@@ -1,4 +1,5 @@
 # DNHV_MitApp
+#link app: https://gallery.appinventor.mit.edu/?galleryid=d093aa14-c270-43dd-90a0-86574f92f6bf
 ![image](https://github.com/user-attachments/assets/6469b138-e756-4ec5-beab-7e3a4e89d715)
 kéo các label và textbox để hiển thị thông tin và nhập các thông tin cần thiết
 ![image](https://github.com/user-attachments/assets/66af4e8a-eafb-4099-b2ec-b5fafc326c36)
@@ -16,6 +17,8 @@ thên nút bất tắt âm thanh cho file mp3
 ![image](https://github.com/user-attachments/assets/71f6816b-9f3a-4c79-9029-d68561434f5a)
 Tạo blocks cho phần designer âm thanh
 ![image](https://github.com/user-attachments/assets/89f542d3-828e-476c-83a7-9f077b390418)
+
+
 
 
 
