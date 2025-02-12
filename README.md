@@ -1,5 +1,6 @@
 # DNHV_MitApp
 #link app: https://gallery.appinventor.mit.edu/?galleryid=d093aa14-c270-43dd-90a0-86574f92f6bf
+#link download app: https://ai2.appinventor.mit.edu/b/3u7w
 ![image](https://github.com/user-attachments/assets/6469b138-e756-4ec5-beab-7e3a4e89d715)
 kéo các label và textbox để hiển thị thông tin và nhập các thông tin cần thiết
 ![image](https://github.com/user-attachments/assets/66af4e8a-eafb-4099-b2ec-b5fafc326c36)
